@@ -4,7 +4,7 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  font-family: 'Helvetica Neue', sans-serif;
+  font-family: 'Handlee' , 'cursive' , 'Helvetica Neue', sans-serif;
   }
  body {
   padding-right: 20px;
@@ -123,7 +123,7 @@ input, textarea {
 }
 
 i {
-  font-size: 11pt;
+  font-size: 12pt;
 }
 b {
   font-size: 14pt;
