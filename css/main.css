@@ -60,13 +60,6 @@ background-size: cover;
     * {
   box-sizing: border-box;
 }
-@media (max-device-width: 480px) {
-  #content {
-            float: none;
-            width: 100%;
-        }
-}
- 
 	
 .row {
   display: flex;
